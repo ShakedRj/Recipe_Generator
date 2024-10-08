@@ -1,4 +1,4 @@
-# Recipe_Generator
+# Recipe Generator
 
 For my mid-project in python I decided to create a recipe generator app. How this works?
 
@@ -15,7 +15,7 @@ First, to make it a bit more interesting and personal I created a window for log
 
 Then the main window will open where you can type in your search.
 
-![Main_Page](first window.png)
+![Main_Page](main_window.png)
 
 Finally we see the recipes! Now you have the options to save it as a txt file, email it and even add ratings and reviews and read what other users wrote.
 

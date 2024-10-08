@@ -8,8 +8,8 @@ In order to get the recipes I used an API from a website called "spoonacular" (h
 
 ## Let's walk through the app!
 
-First, to make it a bit more interesting I created a window for login where you have to prompt username and password which are being saved in a sqlite database, or create a new one.
-
+First, to make it a bit more interesting and personal I created a window for login where you have to prompt username and password which are being saved in a sqlite database, or create a new one.
+![Login_Page](usernamewindow.png)
 
 
 Then the main window will open where you can type in your search.

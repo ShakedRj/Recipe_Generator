@@ -9,21 +9,26 @@ In order to get the recipes I used an API from a website called "spoonacular" (h
 ## Let's walk through the app!
 
 First, to make it a bit more interesting and personal I created a window for login where you have to prompt username and password which are being saved in a sqlite database, or create a new one.
+
 ![Login_Page](usernamewindow.png)
 
 
 Then the main window will open where you can type in your search.
 
+![Main_Page](first window.png)
+
+Finally we see the recipes! Now you have the options to save it as a txt file, email it and even add ratings and reviews and read what other users wrote.
+
+![Recipe_Page](recipes.png)
 
 
-Finally we see the recipes! Now you have the options to save it as a txt file, email it and even add ratings and revies and read what other users wrote.
+Submit a rating:
 
-
-
+![Rating_Page](ratings.png)
 
 The ratings and reviews are also being stored in out database and pulled from there when we want to view the reviews for a specific recipe.
 
-
+![Review_Page](reviews.png)
 
 
 I hope you enjoyed!

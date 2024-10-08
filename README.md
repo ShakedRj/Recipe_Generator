@@ -2,7 +2,7 @@
 
 For my mid-project in python I decided to create a recipe generator app. How this works?
 
-With a clear modern UI you can search for recipes, you can search for a specific recipe or just type in an ingridient and you will be offered a bunch of different recipes, which you can easily look through.
+With a clear and modern UI you can search for recipes, you can search for a specific recipe or just type in an ingridient and you will be offered a bunch of different recipes, which you can easily look through.
 
 In order to get the recipes I used an API from a website called "spoonacular" (https://spoonacular.com/food-api), after the user type in his search it pulles it from the API.
 
